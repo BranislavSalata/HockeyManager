@@ -7,13 +7,6 @@ public class Goalie extends Player{
         this.name = name;
     }
 
-    public int getWins() {
-        return wins;
-    }
-
-    public void setWins(int wins) {
-        this.wins = wins;
-    }
 
     @Override
     public void adder() {
